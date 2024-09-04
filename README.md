@@ -3,6 +3,9 @@ emr-hudi-getting-started
 
 ![Screenshot 2024-09-04 at 5 32 11 PM](https://github.com/user-attachments/assets/7c6e5f0a-2330-4fb1-b392-34d6c4f6adcf)
 
+Detailed Blog with steps 
+https://www.linkedin.com/pulse/developer-guide-how-submit-hudi-pysparkpython-jobs-emr-soumil-shah-bdfne/?trackingId=hHMQpGNoSiiQ5G2ShYG%2BUQ%3D%3D
+
 
 # Steps 
 
