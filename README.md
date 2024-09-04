@@ -113,7 +113,12 @@ aws emr-serverless start-job-run \
 
 
 ```
+
+# Output 
+
 ![Screenshot 2024-09-04 at 5 30 10 PM](https://github.com/user-attachments/assets/2b456a20-2ff9-45c8-9be6-a64ebe5579e2)
+
+# Query in Athena 
 ![Screenshot 2024-09-04 at 5 30 57 PM](https://github.com/user-attachments/assets/4ee55429-8ea7-48a6-a3db-11cff614fded)
 
 
