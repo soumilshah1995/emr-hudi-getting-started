@@ -96,6 +96,7 @@ export IAM_ROLE="arn:aws:iam::XX:role/EMRServerlessS3RuntimeRole"
 ```
 aws emr-serverless start-job-run \
     --application-id $APPLICATION_ID \
+    --name "HudiJobRun" \
     --execution-role-arn $IAM_ROLE \
     --job-driver '{
         "sparkSubmit": {
