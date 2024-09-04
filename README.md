@@ -8,6 +8,9 @@ emr-hudi-getting-started
 
 ### Step 1: Create EMR Serverless(emr-7.1.0) Cluster
 
+![Screenshot 2024-09-04 at 5 23 52 PM](https://github.com/user-attachments/assets/ee987571-cdd3-4a3d-9332-f198221d8b2a)
+
+
 ### Step 2: Copy Application ID 
 ```
 aws emr-serverless list-applications
